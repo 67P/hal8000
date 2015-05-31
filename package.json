@@ -20,6 +20,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-seen": "^0.2.2",
     "hubot-shipit": "^0.2.0",
+    "hubot-tell": "^1.2.3",
     "request": "2.30.0"
   },
   "engines": {
