@@ -6,5 +6,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-rss-reader",
-  "hubot-plusplus"
+  "hubot-plusplus",
+  "hubot-seen"
 ]

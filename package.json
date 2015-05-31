@@ -18,6 +18,7 @@
     "hubot-rss-reader": "^0.6.7",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
+    "hubot-seen": "^0.2.2",
     "hubot-shipit": "^0.2.0",
     "request": "2.30.0"
   },
