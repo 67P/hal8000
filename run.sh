@@ -2,8 +2,8 @@
 # rm -rf node_modules/hubot-logger
 # npm install
 
-HUBOT_IRC_SERVER=irc.freenode.net \
-HUBOT_IRC_ROOMS="#kosmos-dev" \
+HUBOT_IRC_SERVER="irc.freenode.net" \
+HUBOT_IRC_ROOMS="#kosmos-dev,#kosmos-random" \
 HUBOT_IRC_NICK="hal7000" \
 HUBOT_IRC_UNFLOOD="true" \
 HUBOT_RSS_PRINTSUMMARY="false" \

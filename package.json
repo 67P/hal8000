@@ -24,7 +24,6 @@
     "hubot-shipit": "^0.2.0",
     "hubot-tell": "^1.2.3",
     "hubot-rss-reader": "git://github.com/67P/hubot-rss-reader.git",
-    "hubot-logger": "../hubot-logger/",
     "hubot-logger": "67P/hubot-logger#remotestorage",
     "request": "2.30.0"
   },
