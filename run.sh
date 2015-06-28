@@ -14,4 +14,5 @@ LOG_HTTP_PORT=7000 \
 LOG_STEALTH="true" \
 LOG_RS_USER="kosmos@5apps.com" \
 LOG_RS_TOKEN="change-me" \
+LOG_RS_SERVER_NAME="freenode" \
 bin/hubot -a irc --name hal7000
