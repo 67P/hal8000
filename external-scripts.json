@@ -5,8 +5,9 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-rss-reader",
   "hubot-plusplus",
   "hubot-tell",
-  "hubot-seen"
+  "hubot-seen",
+  "hubot-rss-reader",
+  "hubot-logger"
 ]
