@@ -1,6 +1,6 @@
-cp ~/src/remotestorage/modules/src/messages-irc.js ~/src/kosmos/hubot-logger/lib/
-rm -rf node_modules/hubot-logger
-npm install
+# cp ~/src/remotestorage/modules/src/messages-irc.js ~/src/kosmos/hubot-logger/lib/
+# rm -rf node_modules/hubot-logger
+# npm install
 
 HUBOT_IRC_SERVER=irc.freenode.net \
 HUBOT_IRC_ROOMS="#kosmos-dev" \
@@ -13,5 +13,5 @@ HUBOT_AUTH_ADMIN="bkero,derbumi,galfert,gregkare,jaaan,slvrbckt,raucao" \
 LOG_HTTP_PORT=7000 \
 LOG_STEALTH="true" \
 LOG_RS_USER="kosmos@5apps.com" \
-LOG_RS_TOKEN="add-a-token" \
+LOG_RS_TOKEN="change-me" \
 bin/hubot -a irc --name hal7000
