@@ -1,4 +1,4 @@
-# cp ~/src/remotestorage/modules/src/messages-irc.js ~/src/kosmos/hubot-logger/lib/
+# cp ~/src/remotestorage/modules/src/chat-messages.js ~/src/kosmos/hubot-logger/lib/chat-messages.es6
 # rm -rf node_modules/hubot-logger
 # npm install
 
@@ -15,4 +15,5 @@ LOG_STEALTH="true" \
 LOG_RS_USER="kosmos@5apps.com" \
 LOG_RS_TOKEN="change-me" \
 LOG_RS_SERVER_NAME="freenode" \
+LOG_RS_PUBLIC="true" \
 bin/hubot -a irc --name hal7000
