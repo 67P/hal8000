@@ -1,6 +1,5 @@
 [
   "hubot-help",
-  "hubot-heroku-keepalive",
   "hubot-read-tweet",
   "hubot-redis-brain",
   "hubot-rules",
@@ -9,5 +8,5 @@
   "hubot-tell",
   "hubot-seen",
   "hubot-rss-reader",
-  "hubot-logger"
+  "hubot-remotestorage-logger"
 ]
