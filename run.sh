@@ -1,4 +1,4 @@
-# cp ~/src/remotestorage/modules/src/chat-messages.js ~/src/kosmos/hubot-logger/lib/chat-messages.es6
+# cp ~/src/remotestorage/modules/src/chat-messages.js ~/src/kosmos/hubot-remotestorage-logger/lib/chat-messages.es6
 # rm -rf node_modules/hubot-remotestorage-logger
 # npm install
 
