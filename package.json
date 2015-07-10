@@ -18,7 +18,7 @@
     "hubot-plusplus": "^1.1.5",
     "hubot-read-tweet": "0.0.2",
     "hubot-redis-brain": "0.0.2",
-    "hubot-remotestorage-logger": "^0.2.1",
+    "hubot-remotestorage-logger": "^0.3.0",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-seen": "https://github.com/67P/hubot-seen.git#fix_debug",
