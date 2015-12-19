@@ -4,7 +4,7 @@
   "private": true,
   "authors": [
     "Sebastian Kippe <sebastian@kip.pe>",
-    "Greg Karékinian <greg@karekinian.com"
+    "Greg Karékinian <greg@karekinian.com>"
   ],
   "description": "Heuristically programmed ALgorithmic computer",
   "dependencies": {
