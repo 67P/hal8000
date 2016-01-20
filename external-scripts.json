@@ -8,5 +8,6 @@
   "hubot-tell",
   "hubot-seen",
   "hubot-rss-reader",
-  "hubot-remotestorage-logger"
+  "hubot-remotestorage-logger",
+  "hubot-kosmos-kredits"
 ]

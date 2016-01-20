@@ -15,16 +15,17 @@
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-irc": "^0.2.7",
+    "hubot-kosmos-kredits": "^0.1.0",
     "hubot-plusplus": "^1.1.5",
     "hubot-read-tweet": "0.0.2",
     "hubot-redis-brain": "0.0.2",
     "hubot-remotestorage-logger": "^0.3.0",
+    "hubot-rss-reader": "git://github.com/67P/hubot-rss-reader.git",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-seen": "https://github.com/67P/hubot-seen.git#fix_debug",
     "hubot-shipit": "^0.2.0",
     "hubot-tell": "^1.2.3",
-    "hubot-rss-reader": "git://github.com/67P/hubot-rss-reader.git",
     "request": "2.30.0"
   },
   "engines": {
