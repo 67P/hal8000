@@ -15,7 +15,7 @@
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-irc": "^0.2.7",
-    "hubot-kosmos-kredits": "^0.2.0",
+    "hubot-kosmos-kredits": "^0.2.1",
     "hubot-plusplus": "^1.1.5",
     "hubot-read-tweet": "0.0.2",
     "hubot-redis-brain": "0.0.2",
