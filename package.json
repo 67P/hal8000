@@ -1,6 +1,6 @@
 {
   "name": "hal8000",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "private": true,
   "authors": [
     "Sebastian Kippe <sebastian@kip.pe>",
@@ -15,7 +15,7 @@
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-irc": "^0.2.7",
-    "hubot-kosmos-kredits": "^0.2.2",
+    "hubot-openassets": "^0.4.0",
     "hubot-plusplus": "^1.1.5",
     "hubot-read-tweet": "0.0.2",
     "hubot-redis-brain": "0.0.2",
