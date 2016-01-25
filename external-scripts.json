@@ -1,4 +1,5 @@
 [
+  "hubot-auth",
   "hubot-help",
   "hubot-read-tweet",
   "hubot-redis-brain",
