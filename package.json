@@ -14,6 +14,7 @@
     "hubot-auth": "^1.2.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
+    "hubot-incoming-webhook": "^1.0.1",
     "hubot-irc": "^0.2.7",
     "hubot-openassets": "^0.8.2",
     "hubot-plusplus": "^1.1.5",

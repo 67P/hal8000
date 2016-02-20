@@ -10,5 +10,6 @@
   "hubot-seen",
   "hubot-rss-reader",
   "hubot-remotestorage-logger",
-  "hubot-openassets"
+  "hubot-openassets",
+  "hubot-incoming-webhook"
 ]

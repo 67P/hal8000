@@ -16,8 +16,8 @@ RS_LOGGER_USER="kosmos@5apps.com" \
 RS_LOGGER_TOKEN="change-me" \
 RS_LOGGER_SERVER_NAME="freenode" \
 RS_LOGGER_PUBLIC="true" \
-HUBOT_AUTH_ADMIN="bkero,derbumi,galfert,gregkare,jaaan,slvrbckt,raucao" \
 OA_BOT_KEYWORD="kreditz" \
 OA_ASSET_FROM_ADDRESS="akRWZJMETdM2U5UGKadKhv1PAj2npoGja1m" \
 OA_ASSET_ID="AbDn6L2AUGnDreUuNkGFEqcxnsoUP4HCjm" \
+WEBHOOK_TOKEN="kosmosplusplus" \
 bin/hubot -a irc --name hal7000
