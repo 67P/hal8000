@@ -20,4 +20,5 @@ OA_BOT_KEYWORD="kreditz" \
 OA_ASSET_FROM_ADDRESS="akRWZJMETdM2U5UGKadKhv1PAj2npoGja1m" \
 OA_ASSET_ID="AbDn6L2AUGnDreUuNkGFEqcxnsoUP4HCjm" \
 WEBHOOK_TOKEN="kosmosplusplus" \
+HUBOT_YUBIKEY_API_ID="change-me" \
 bin/hubot -a irc --name hal7000

@@ -26,6 +26,7 @@
     "hubot-seen": "https://github.com/67P/hubot-seen.git#fix_debug",
     "hubot-shipit": "^0.2.0",
     "hubot-tell": "^1.2.3",
+    "hubot-yubikey-invalidation": "0.0.3",
     "request": "2.30.0"
   },
   "engines": {

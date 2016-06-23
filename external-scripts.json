@@ -11,5 +11,6 @@
   "hubot-rss-reader",
   "hubot-remotestorage-logger",
   "hubot-openassets",
-  "hubot-incoming-webhook"
+  "hubot-incoming-webhook",
+  "hubot-yubikey-invalidation"
 ]
