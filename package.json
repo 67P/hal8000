@@ -19,7 +19,7 @@
     "hubot-plusplus": "^1.1.5",
     "hubot-read-tweet": "0.0.2",
     "hubot-redis-brain": "0.0.2",
-    "hubot-remotestorage-logger": "^0.3.0",
+    "hubot-remotestorage-logger": "^0.4.0",
     "hubot-rss-reader": "git://github.com/67P/hubot-rss-reader.git",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
