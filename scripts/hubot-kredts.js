@@ -63,7 +63,7 @@ const fetch = require('node-fetch');
         if (assignees.length > 0) {
           recipients = assignees;
         } else {
-          recipients.push(issue.user.login);
+          recipients = [issue.user.login];
         }
 
         recipients.forEach(recipient => {
@@ -86,7 +86,7 @@ const fetch = require('node-fetch');
         if (assignees.length > 0) {
           recipients = assignees;
         } else {
-          recipients.push(pull_request.user.login);
+          recipients = [pull_request.user.login];
         }
 
         fetch(pr_issue_url)
