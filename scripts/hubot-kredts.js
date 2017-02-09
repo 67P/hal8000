@@ -8,7 +8,7 @@
 // Authors:
 //   Sebastian Kippe <sebastian@kip.pe>
 
-const fs = require('fs');
+// const fs = require('fs');
 const fetch = require('node-fetch');
 
 (function() {
@@ -51,7 +51,7 @@ const fetch = require('node-fetch');
 
     function handleGitHubIssueClosed(data) {
       return new Promise((resolve/*, reject*/) => {
-        fs.writeFileSync('tmp/github-issue.json', JSON.stringify(data, null, 4));
+        // fs.writeFileSync('tmp/github-issue.json', JSON.stringify(data, null, 4));
         let recipients;
         let issue        = data.issue;
         let assignees    = issue.assignees.map(a => a.login);
