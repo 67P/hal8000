@@ -25,10 +25,11 @@
     "hubot-shipit": "^0.2.0",
     "hubot-tell": "^1.2.3",
     "hubot-yubikey-invalidation": "0.0.3",
+    "node-fetch": "^1.6.3",
     "request": "2.30.0"
   },
   "engines": {
-    "node": "0.12.x",
+    "node": "6.x.x",
     "npm": "2.1.x"
   }
 }

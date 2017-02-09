@@ -14,4 +14,5 @@ LOG_HTTP_PORT=7000 \
 LOG_STEALTH="true" \
 WEBHOOK_TOKEN="kosmosplusplus" \
 HUBOT_YUBIKEY_API_ID="change-me" \
-bin/hubot -a irc --name hal7000
+KREDITS_WEBHOOK_TOKEN="123" \
+bin/hubot --name hal7000
