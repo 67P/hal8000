@@ -99,7 +99,7 @@ const fetch = require('node-fetch');
           .then(issue => {
             // fs.writeFileSync('tmp/github-pr-issue.json', JSON.stringify(data, null, 4));
             let amount = amountFromIssueLabels(issue);
-            if (amount === 0) { resolve(); return(); }
+            if (amount === 0) { resolve(); return; }
 
             recipients.forEach(recipient => {
               createProposal(recipient, amount, web_url, pull_request);
