@@ -10,6 +10,5 @@
   "hubot-seen",
   "hubot-rss-reader",
   "hubot-incoming-webhook",
-  "hubot-yubikey-invalidation",
-  "hubot-kredits"
+  "hubot-yubikey-invalidation"
 ]
