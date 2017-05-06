@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "./run.sh",
-    "ngrok": "ngrok http -region=ap -hostname=hubot-dev.kosmos.org localhost:8080"
+    "ngrok": "ngrok http -region=ap -hostname=hubot-dev.kosmos.org localhost:8888"
   },
   "authors": [
     "Sebastian Kippe <sebastian@kip.pe>",
@@ -30,7 +30,7 @@
     "hubot-shipit": "^0.2.0",
     "hubot-tell": "^1.2.3",
     "hubot-yubikey-invalidation": "0.0.3",
-    "kredits-contracts": "67p/kredits-contracts",
+    "kredits-contracts": "^2.0.0",
     "node-fetch": "^1.6.3",
     "request": "2.30.0"
   },
