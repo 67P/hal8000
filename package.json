@@ -19,6 +19,7 @@
     "hubot-help": "^0.1.1",
     "hubot-incoming-webhook": "^1.0.1",
     "hubot-irc": "^0.2.9",
+    "hubot-kredits": ">=1.1.0",
     "hubot-plusplus": "^1.1.5",
     "hubot-read-tweet": "0.0.2",
     "hubot-redis-brain": "0.0.2",
@@ -29,14 +30,9 @@
     "hubot-shipit": "^0.2.0",
     "hubot-tell": "^1.2.3",
     "hubot-yubikey-invalidation": "0.0.3",
-    "request": "2.30.0",
-    "node-fetch": "^1.6.3",
-    "request": "2.30.0",
-    "ethereumjs-wallet": "mvayngrib/ethereumjs-wallet",
     "kredits-contracts": "67p/kredits-contracts",
     "node-fetch": "^1.6.3",
-    "web3": "^0.18.4",
-    "web3-provider-engine": "^12.0.3"
+    "request": "2.30.0"
   },
   "engines": {
     "node": "6.x.x",
