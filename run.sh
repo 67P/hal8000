@@ -15,4 +15,7 @@ LOG_STEALTH="true" \
 WEBHOOK_TOKEN="kosmosplusplus" \
 HUBOT_YUBIKEY_API_ID="change-me" \
 KREDITS_WEBHOOK_TOKEN="123" \
+KREDITS_ROOM="#kosmos-dev" \
+KREDITS_WALLET_PATH="wallet.json" \
+KREDITS_WALLET_PASSWORD="foo" \
 bin/hubot --name hal7000
