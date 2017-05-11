@@ -2,6 +2,7 @@
 # rm -rf node_modules/hubot-openassets
 # npm install
 
+PORT=8888 \
 HUBOT_IRC_SERVER="irc.freenode.net" \
 HUBOT_IRC_ROOMS="#kosmos-dev,#kosmos-random" \
 HUBOT_IRC_NICK="hal7000" \
@@ -15,4 +16,9 @@ LOG_STEALTH="true" \
 WEBHOOK_TOKEN="kosmosplusplus" \
 HUBOT_YUBIKEY_API_ID="change-me" \
 KREDITS_WEBHOOK_TOKEN="123" \
+KREDITS_ROOM="#kosmos-dev" \
+# KREDITS_WALLET_PATH="wallet.json" \
+KREDITS_WALLET_PATH="wallet-testnet.json" \
+KREDITS_WALLET_PASSWORD="foo" \
+KREDITS_CONTRACT_ADDRESS="0x1e77db134531f8e8f3d97428285d096b4b85e2c4" \
 bin/hubot --name hal7000
