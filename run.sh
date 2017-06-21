@@ -3,6 +3,7 @@
 # npm install
 
 PORT=8888 \
+HUBOT_LOG_LEVEL="debug" \
 HUBOT_IRC_SERVER="irc.freenode.net" \
 HUBOT_IRC_ROOMS="#kosmos-dev,#kosmos-random" \
 HUBOT_IRC_NICK="hal7000" \
@@ -16,7 +17,7 @@ LOG_STEALTH="true" \
 WEBHOOK_TOKEN="kosmosplusplus" \
 HUBOT_YUBIKEY_API_ID="change-me" \
 KREDITS_WEBHOOK_TOKEN="123" \
-KREDITS_ROOM="#kosmos-dev" \
+KREDITS_ROOM="#kosmos-random" \
 KREDITS_WALLET_PATH="wallet.json" \
 KREDITS_WALLET_PASSWORD="foo" \
 KREDITS_CONTRACT_ADDRESS="0x7dfab325c6ec203597c419b4b3172c6b219b9315" \
