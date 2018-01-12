@@ -9,6 +9,7 @@ HUBOT_IRC_ROOMS="#kosmos-dev,#kosmos-random" \
 HUBOT_IRC_NICK="hal7000" \
 HUBOT_IRC_UNFLOOD="300" \
 HUBOT_RSS_PRINTSUMMARY="false" \
+HUBOT_RSS_PRINTERROR="false" \
 HUBOT_RSS_IRCCOLORS="true" \
 HUBOT_RSS_HEADER="Update:" \
 HUBOT_AUTH_ADMIN="bkero,derbumi,galfert,gregkare,slvrbckt,raucao" \
