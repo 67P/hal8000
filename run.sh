@@ -1,5 +1,4 @@
-# cp ~/src/remotestorage/modules/src/chat-messages.js ~/src/kosmos/hubot-remotestorage-logger/lib/chat-messages.es6
-# rm -rf node_modules/hubot-openassets
+rm -rf node_modules/hubot-plusplus
 # npm install
 
 PORT=8888 \
@@ -13,6 +12,7 @@ HUBOT_RSS_PRINTERROR="false" \
 HUBOT_RSS_IRCCOLORS="true" \
 HUBOT_RSS_HEADER="Update:" \
 HUBOT_AUTH_ADMIN="bkero,derbumi,galfert,gregkare,slvrbckt,raucao" \
+HUBOT_PLUSPLUS_POINTS_TERM='karma,karma' \
 LOG_HTTP_PORT=7000 \
 LOG_STEALTH="true" \
 WEBHOOK_TOKEN="kosmosplusplus" \
