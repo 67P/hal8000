@@ -1,5 +1,4 @@
-rm -rf node_modules/hubot-plusplus
-# npm install
+npm link hubot-kredits
 
 PORT=8888 \
 HUBOT_LOG_LEVEL="debug" \
@@ -21,6 +20,5 @@ KREDITS_WEBHOOK_TOKEN="123" \
 KREDITS_ROOM="#kosmos-random" \
 KREDITS_WALLET_PATH="wallet.json" \
 KREDITS_WALLET_PASSWORD="foo" \
-KREDITS_CONTRACT_ADDRESS="0x7dfab325c6ec203597c419b4b3172c6b219b9315" \
-KREDITS_PROVIDER_URL="https://parity.kosmos.org:8545" \
+KREDITS_PROVIDER_URL="http://localhost:7545" \
 bin/hubot --name hal7000
