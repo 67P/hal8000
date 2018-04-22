@@ -21,4 +21,6 @@ KREDITS_ROOM="#kosmos-random" \
 KREDITS_WALLET_PATH="wallet.json" \
 KREDITS_WALLET_PASSWORD="foo" \
 KREDITS_PROVIDER_URL="http://localhost:7545" \
+KREDITS_GITHUB_REPO_BLACKLIST="" \
+KREDITS_MEDIAWIKI_URL="https://wiki.kosmos.org/" \
 bin/hubot --name hal7000
