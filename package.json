@@ -19,7 +19,7 @@
     "hubot-help": "^0.1.1",
     "hubot-incoming-webhook": "^1.0.1",
     "hubot-irc": "^0.2.9",
-    "hubot-kredits": "^1.7.0",
+    "hubot-kredits": "^2.0.1",
     "hubot-plusplus": "github:67P/hubot-plusplus#feature/configurable_points_term",
     "hubot-read-tweet": "0.0.2",
     "hubot-redis-brain": "0.0.2",
