@@ -23,7 +23,7 @@
     "hubot-plusplus": "github:67P/hubot-plusplus#feature/configurable_points_term",
     "hubot-read-tweet": "0.0.2",
     "hubot-redis-brain": "0.0.2",
-    "hubot-rss-reader": "github:67P/hubot-rss-reader#v0.8.3",
+    "hubot-rss-reader": "github:67P/hubot-rss-reader#e3252d63a908c065671c5416a0a4bffa323b27c6",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-seen": "github:67P/hubot-seen#fix_debug",
