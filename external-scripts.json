@@ -11,5 +11,6 @@
   "hubot-rss-reader",
   "hubot-incoming-webhook",
   "hubot-yubikey-invalidation",
-  "hubot-kredits"
+  "hubot-kredits",
+  "hubot-schedule"
 ]

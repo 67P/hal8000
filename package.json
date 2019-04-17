@@ -25,6 +25,7 @@
     "hubot-redis-brain": "1.0.0",
     "hubot-rss-reader": "github:67P/hubot-rss-reader#e3252d63a908c065671c5416a0a4bffa323b27c6",
     "hubot-rules": "^0.1.0",
+    "hubot-schedule": "^0.6.2",
     "hubot-scripts": "^2.5.16",
     "hubot-seen": "github:67P/hubot-seen#fix_debug",
     "hubot-shipit": "^0.2.0",
