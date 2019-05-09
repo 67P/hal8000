@@ -30,7 +30,7 @@
     "hubot-seen": "github:67P/hubot-seen#fix_debug",
     "hubot-shipit": "^0.2.0",
     "hubot-tell": "^1.2.3",
-    "hubot-xmpp": "^0.2.5",
+    "hubot-xmpp": "github:67P/hubot-xmpp#dev",
     "hubot-yubikey-invalidation": "0.0.3",
     "node-fetch": "^2.3.0",
     "request": "^2.88.0"
