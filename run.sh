@@ -1,4 +1,4 @@
-npm link hubot-kredits
+# npm link hubot-kredits
 
 PORT=8888 \
 HUBOT_LOG_LEVEL="debug" \
@@ -21,6 +21,9 @@ KREDITS_ROOM="#kosmos-random" \
 KREDITS_WALLET_PATH="wallet.json" \
 KREDITS_WALLET_PASSWORD="foo" \
 KREDITS_PROVIDER_URL="http://localhost:7545" \
+KREDITS_DAO_ADDRESS="" \
+KREDITS_GITHUB_KEY="" \
+KREDITS_GITHUB_SECRET="" \
 KREDITS_GITHUB_REPO_BLACKLIST="" \
 KREDITS_MEDIAWIKI_URL="https://wiki.kosmos.org/" \
 bin/hubot --name hal7000
