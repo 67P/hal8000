@@ -22,8 +22,8 @@ with the commands.
 
 ## Deployment
 
-hal8000 is deployed by running Chef Solo against `dev.kosmos.org` with the
-cookbooks from our (private) [GitLab repo](https://gitlab.com/kosmos/chef).
+hal8000 is deployed by running Chef Zero against `barnard.kosmos.org` with the
+cookbooks from our [Gitea repo](https://gitea.kosmos.org/kosmos/chef).
 
 ## House Rules
 
