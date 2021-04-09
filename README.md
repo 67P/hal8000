@@ -1,4 +1,4 @@
-# hal8000
+## hal8000
 
 hal8000 is a chat bot built on the [Hubot](https://hubot.github.com/)
 framework. It's currently running in some channels on Freenode.
@@ -20,11 +20,11 @@ you can open an HTTP tunnel with:
 required ENV vars. Change it according to your needs, or use custom ENV vars
 with the commands.
 
-## Deployment
+### Deployment
 
 hal8000 is deployed by running Chef Zero against `barnard.kosmos.org` with the
 cookbooks from our [Gitea repo](https://gitea.kosmos.org/kosmos/chef).
 
-## House Rules
+### House Rules
 
 [Contributor Code of Conduct](http://contributor-covenant.org/version/1/2/0/) (TL;DR: Be excellent to each other.)
